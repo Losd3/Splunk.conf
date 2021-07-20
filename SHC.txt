@@ -1,0 +1,15 @@
+{
+"1: Search head clustering architecture": "https://docs.splunk.com/Documentation/Splunk/8.2.1/DistSearch/SHCarchitecture",
+"2: System requirements and other deployment considerations for search head clusters": "https://docs.splunk.com/Documentation/Splunk/8.2.1/DistSearch/SHCsystemrequirements",
+"3: Search head configuration overview": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Indexer/Configurethesearchhead",
+"4: Configure the search head cluster": "https://docs.splunk.com/Documentation/Splunk/8.2.1/DistSearch/SHCconfigurationoverview",
+"5: Deploy a search head cluster": "https://docs.splunk.com/Documentation/Splunk/8.2.1/DistSearch/SHCdeploymentoverview",
+"6: Migrate settings from a standalone search head to a search head cluster": "https://docs.splunk.com/Documentation/Splunk/8.2.1/DistSearch/Migratefromstandalonesearchheads",
+"7: Migrate from a search head pool to a search head cluster": "https://docs.splunk.com/Documentation/Splunk/8.2.1/DistSearch/Migratefromsearchheadpooling",
+"8: SH's fail to restart completely after a sh cluster bundle push starts *ARTICLE*": "https://splunk.my.salesforce.com/kA05a000000CsUV?srPos=0&srKp=ka0&lang=en_US",
+"9: Splunk SH Cluster is not replicating Configuration among members *ARTICLE*": "https://splunk.my.salesforce.com/kA00b000000Yjui?srPos=2&srKp=ka0&lang=en_US",
+"10: Search Head Cluster Members Keep Rolling Restart *ARTICLE*": "https://splunk.my.salesforce.com/kA10b0000004SEe?srPos=3&srKp=ka1&lang=en_US",
+"11: Splunkd increasing memory usage on captain over time *ARTICLE*": "https://splunk.my.salesforce.com/kA15a0000004UKj?srPos=9&srKp=ka1&lang=en_US",
+"12: One of the Search head KVStore Is not Working and Cannot Join the KVStore Cluster *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000008vDj?srPos=14&srKp=ka0&lang=en_US",
+"13: Search Head Captain skips scheduled searches hitting max concurrent searches in metrics.log *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000005ONY?srPos=16&srKp=ka0&lang=en_US"
+}

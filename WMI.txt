@@ -1,0 +1,8 @@
+{
+"1: Monitor file system changes on Windows": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Data/MonitorfilesystemchangesonWindows",
+"2: Monitor data through Windows Management Instrumentation": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Data/MonitorWMIdata",
+"3: Common issues with Splunk and WMI": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Troubleshooting/TroubleshootingWMI",
+"4: Winevent logs not available using WMI *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000005OX9?srPos=0&srKp=ka0&lang=en_US",
+"5: Delayed Windows logs ingestion from remote hosts when using [WinEventLog] input stanza *ARTICLE*":"https://splunk.my.salesforce.com/kA05a000000CsYS?srPos=2&srKp=ka0&lang=en_US",
+"6: Wmi configuration to ingest remote system logs *CASE*": "https://splunk.my.salesforce.com/5005a00001j0pHp?srPos=20&srKp=500"
+}

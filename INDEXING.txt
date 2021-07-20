@@ -1,0 +1,14 @@
+{
+"1: Verify Indexing: Performance": "https://docs.splunk.com/Documentation/Splunk/8.2.1/DMC/IndexingDeployment",
+"2: Identify and triage indexing performance problems": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Troubleshooting/Troubleshootindexingperformance",
+"3: Event indexing delay": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Troubleshooting/Troubleshootingeventsindexingdelay",
+"4: The splunkd.log on my forwarder has an error saying my file might be binary": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Troubleshooting/Binaryfileerror",
+"5: Might I be having issues with bucket rotation?": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Troubleshooting/Buckets",
+"6: Troubleshoot Windows event log collection": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Troubleshooting/TroubleshootingWindowseventlogs",
+"7: How CPU iowait affects indexing performance *ARTICLE*": "https://splunk.my.salesforce.com/kA10b0000004QVO?srPos=0&srKp=ka1&lang=en_US",
+"8: Peer of an indexing cluster is unable to connect to the cluster master after a maintenance window *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000005OVI?srPos=2&srKp=ka0&lang=en_US",
+"9: Indexing delay reported between Winevent log event time and Splunk index time *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000005NXN?srPos=4&srKp=ka0&lang=en_US",
+"10: Splunk is not indexing some .csv files. *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000005OTW?srPos=10&srKp=ka0&lang=en_US",
+"11: Events sent via HEC don't get indexed by indexer *ARTICLE*": "https://splunk.my.salesforce.com/kA05a000000Csnm?srPos=18&srKp=ka0&lang=en_US",
+"12: INDEXED EXTRACTIONS Missing Fields in Large JSON Events *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000008vKQ?srPos=23&srKp=ka0&lang=en_US"
+}

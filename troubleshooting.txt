@@ -1,0 +1,8 @@
+{
+"1 Crash": "https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=Crash.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fa%2Fsplunk.com%2Fuc%3Fid%3D1iqi6zfzxpxeZPI7AnvVVLEdUkwDYu_az%26export%3Ddownload", 
+"2 Data_ingested_loss": "https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Missing_Data.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fa%2Fsplunk.com%2Fuc%3Fid%3D15PqMbw7NRncu25pOyNoVjLljbifjzHpW%26export%3Ddownload", 
+"3 SHC_Issues": "https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MY%20SHC%20IS%20INOPERABLE.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fa%2Fsplunk.com%2Fuc%3Fid%3D1d8C86mppuk1z1c9hptalhitmjqlhXTvq%26export%3Ddownload",
+"4 SSL": "https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SSL%20NOT%20WORKING.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fa%2Fsplunk.com%2Fuc%3Fid%3D16JAjmn1321Ix8vY-5dDK2wbr4AS9EPmz%26export%3Ddownload", 
+"5 Slow_search": "https://confluence.splunk.com/download/attachments/226731563/Slow%20Search.pdf?version=1&modificationDate=1585075831958&api=v2", 
+"6 ITSI": "https://app.lucidchart.com/documents/embeddedchart/d99b48c3-1fa7-49e2-a241-9eaceb9b9226"
+}

@@ -1,0 +1,12 @@
+{
+"1: Securing the Splunk Platform General information":"https://docs.splunk.com/Documentation/Splunk/8.2.1/Security/AboutsecuringyourSplunkconfigurationwithSSL",
+"2: Turn on encryption (https) with Splunk Web Follow the Work flow in the Doc": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Security/TurnonbasicencryptionwithSplunkWeb",
+"3: Troubleshoot SSL " : "https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SSL%20NOT%20WORKING.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fa%2Fsplunk.com%2Fuc%3Fid%3D16JAjmn1321Ix8vY-5dDK2wbr4AS9EPmz%26export%3Ddownload",
+"4: Expired SSL certificate and KV Store will not start, exit code 14 fatal assertion 28652 *ARTICLE* ": "https://splunk.my.salesforce.com/kA00b000000YjtL?srPos=2&srKp=ka0&lang=en_US",
+"5: How to configure Forwarder to Indexer SSL communication with self signed certs *ARTICLE* ": "https://splunk.my.salesforce.com/kA00b0000005NcX?srPos=5&srKp=ka0&lang=en_US",
+"6: Certs for Splunk Cloud in the forwarder not working, this stops the forwarder from connecting Cloud environment *ARTICLE*": "https://splunk.my.salesforce.com/kA00b0000005NjA?srPos=0&srKp=ka0&lang=en_US",
+"7: Splunk Server Web UI Is Not Working *ARTICLE": "https://splunk.my.salesforce.com/kA00b0000005Ovu?srPos=41&srKp=ka0&lang=en_US",
+"8: KV Store certificate renewal is not working *COMMUNITY*": "https://community.splunk.com/t5/Knowledge-Management/KV-Store-certificate-renewal-is-not-working/m-p/471252",
+"9: After upgrading KV Store will not start": "https://community.splunk.com/t5/Knowledge-Management/After-upgrading-to-6-5-0-KV-Store-will-not-start/td-p/234713",
+"10: Community:SplunkWeb SSL 3rdPartyCA *WIKI*": "https://wiki.splunk.com/Community:SplunkWeb_SSL_3rdPartyCA"
+}
