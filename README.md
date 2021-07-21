@@ -5,7 +5,7 @@ Splunkers from Support tool!
 
 #Requirements:
 - Install Python in your PC 
-- Download the zip file of Splunk.conf
+- Install GitHub Desktop
 - Keep all .txt files in the Splunk.conf directory 
 
 #Python installation 
