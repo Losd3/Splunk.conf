@@ -39,7 +39,7 @@ Click on create an account
 
 Complete the information and the puzzle 
 
-!git step:5](Images/git5.PNG)
+![git step:5](Images/git5.PNG)
 
 Enter the code you received in your personal mail
 
