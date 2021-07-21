@@ -38,9 +38,9 @@ You can move the directory to your desktop (desired)
 Open the folder and click on the Python File called Splunker.conf
 ![zip download:3](Images/zip4.PNG)
 
-<p align="center">
-# Happy Splunking! 
+
+<h1 align="center">Happy Splunking! </h1> 
 ![Splunkest image](Images/d__splunkest.png)
-<p align="center">
+
 
 
