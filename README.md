@@ -7,3 +7,25 @@ Splunkers from Support tool!
 - Install Python in your PC 
 - Download the zip file of Splunk.conf
 - Keep all .txt files in the Splunk.conf directory 
+
+#Python installation 
+
+Go to -> https://www.python.org/downloads/
+
+Click on Download Python 
+![Python Steps:1](Images/py1.PNG)
+
+Remove the check from the "Install launcher for all users" And then Click on "Install now" 
+![Python Steps:2](Images/py2.PNG)
+
+With this, The python installation is complete! 
+
+#Dowloading Splunker.conf ZIP file
+
+Go to the Top of the Web page and click on Code tap
+
+![Zip download:1](Images/zip1.PNG)
+
+After that click on Download ZIP 
+![Zip download:2](Images/zip2.PNG)
+
