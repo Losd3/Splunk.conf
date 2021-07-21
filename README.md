@@ -27,7 +27,9 @@ Go to the Top of the Web page and click on Code tap
 ![Zip download:1](Images/zip1.PNG)
 
 
+
 After that click on Download ZIP 
+
 ![Zip download:2](Images/zip2.PNG)
 
 After that Go to the folder where the zip files was downloaded and use the right click on it and then click on "Extract all"
@@ -36,8 +38,9 @@ You can move the directory to your desktop (desired)
 Open the folder and click on the Python File called Splunker.conf
 ![zip download:3](Images/zip4.PNG)
 
-# Become the 
+<p align="center">
+# Happy Splunking! 
 ![Splunkest image](Images/d__splunkest.png)
-
+<p align="center">
 
 
