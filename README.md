@@ -1,7 +1,7 @@
 # Splunk.conf
 Splunkers from Support tool! 
 
-![Splunk image logo](Images/logo_splunk_black_high.png)
+![Splunk image logo](Images/5QoXjjQ.jpg)
 
 #Requirements:
 - Install Python in your PC 
