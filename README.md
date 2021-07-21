@@ -58,7 +58,7 @@ And in the Repository URL paste: https://github.com/Losd3/Splunk.conf.git
 
 ![git step:9](Images/git9.PNG)
 
-Click on Show on show in Explorer
+Click on Show in Explorer
 
 ![git step:10](Images/git10.PNG)
 
