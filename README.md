@@ -22,29 +22,37 @@ With this, The python installation is complete!
 
 #Git Installation
 Go to -> https://desktop.github.com/  and click on download 
+
 ![git step:1](Images/git1.PNG)
 
 Once the installer is downloaded click on it
+
 ![git step:2](Images/git2.PNG)
 
 Then continue by clicking on Sign in to GitHub.com 
+
 ![git step3](Images/git3.PNG)
 
 Click on create an account
+
 ![git Step:4](Images/git4.PNG)
 
 Complete the information and the puzzle 
+
 !git step:5](Images/git5.PNG)
 
 Enter the code you received in your personal mail
+
 ![git step:6](Images/git6.PNG)
 
 Go back to the desktop git app click cancel and select Sign in to GitHub.com
 Then allow to use the desktop App 
+
 ![git step7](Images/git7.PNG)
 
 
 Open the folder and click on the Python File called Splunker.conf
+
 ![zip download:3](Images/zip4.PNG)
 
 <h1 align="center">Happy Splunking! </h1>
