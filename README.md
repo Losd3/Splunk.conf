@@ -50,6 +50,17 @@ Then allow to use the desktop App
 
 ![git step7](Images/git7.PNG)
 
+Once there, click on Clone a Repository 
+
+![git step:8](Images/git8.PNG)
+
+And in the Repository URL paste: https://github.com/Losd3/Splunk.conf.git
+
+![git step:9](Images/git9.PNG)
+
+Click on Show on show in Explorer
+
+![git step:10](Images/git10.PNG)
 
 Open the folder and click on the Python File called Splunker.conf
 
