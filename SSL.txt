@@ -1,6 +1,6 @@
 {
-"1: Securing the Splunk Platform General information":"https://docs.splunk.com/Documentation/Splunk/8.2.1/Security/AboutsecuringyourSplunkconfigurationwithSSL",
-"2: Turn on encryption (https) with Splunk Web Follow the Work flow in the Doc": "https://docs.splunk.com/Documentation/Splunk/8.2.1/Security/TurnonbasicencryptionwithSplunkWeb",
+"1: Securing the Splunk Platform General information":"https://docs.splunk.com/Documentation/Splunk/latest/Security/AboutsecuringyourSplunkconfigurationwithSSL",
+"2: Turn on encryption (https) with Splunk Web Follow the Work flow in the Doc": "https://docs.splunk.com/Documentation/Splunk/latest/Security/TurnonbasicencryptionwithSplunkWeb",
 "3: Troubleshoot SSL " : "https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SSL%20NOT%20WORKING.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fa%2Fsplunk.com%2Fuc%3Fid%3D16JAjmn1321Ix8vY-5dDK2wbr4AS9EPmz%26export%3Ddownload",
 "4: Expired SSL certificate and KV Store will not start, exit code 14 fatal assertion 28652 *ARTICLE* ": "https://splunk.my.salesforce.com/kA00b000000YjtL?srPos=2&srKp=ka0&lang=en_US",
 "5: How to configure Forwarder to Indexer SSL communication with self signed certs *ARTICLE* ": "https://splunk.my.salesforce.com/kA00b0000005NcX?srPos=5&srKp=ka0&lang=en_US",
