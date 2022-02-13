@@ -213,6 +213,7 @@ def main(): #Provee acceso al los documentos con los links de docuemtacion ofici
 5: Indexer Cluster
 6: Search Head Cluster
 7: Kv Store
+8: SmartStore
         """)
             anstop = input("Select one option \n")
             if anstop == "1":
@@ -355,6 +356,29 @@ def main(): #Provee acceso al los documentos con los links de docuemtacion ofici
 
                     ans = input("Seleccione una opcion \n")
                 ansnum = int(ans)
+            elif anstop == "8":
+                with open("smartstore.txt","r")as SMRT:
+                    smartstore = json.load(SMRT)
+                    line_count = 0
+                    for i in smartstore:
+                        print("------------------------------")
+                        line_count = (line_count + 1)
+                        print(i)#lista de links disponibles 
+                        links.append(i)
+                    print("Precione 0 para volver al menu anterior ")
+
+                    ans = input("Seleccione una opcion \n")
+                ansnum = int(ans)
+
+                if ans == "0" or ansnum > line_count:#condicional si el usuario ingresa un valor diferente al especificado en el index
+                        break
+                    
+                value_index =(links[int(ans)-1])
+                print(value_index)
+                webbrowser.open(smartstore[value_index])
+                break
+
+
 
                 if ans == "0" or ansnum > line_count:#condicional si el usuario ingresa un valor diferente al especificado en el index
                         break

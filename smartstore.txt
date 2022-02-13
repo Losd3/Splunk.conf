@@ -1,0 +1,15 @@
+{
+"1: Get start with SmartStore First Part": "https://www.splunk.com/en_us/blog/platform/splunk-smartstore-disrupting-existing-large-scale-data-management-paradigms.html",
+"2: Get start with SmartStore Second Part": "https://www.splunk.com/en_us/blog/platform/splunk-smartstore-cut-the-cord-by-decoupling-compute-and-storage.html",
+"3: About SmartStore": "https://docs.splunk.com/Documentation/Splunk/latest/Indexer/AboutSmartStore",
+"4: SmartStore architecture": "https://docs.splunk.com/Documentation/Splunk/latest/Indexer/SmartStorearchitecture", 
+"5: SmartStore cache manager": "https://docs.splunk.com/Documentation/Splunk/latest/Indexer/SmartStorecachemanager",
+"6: Indexing in SmartStore": "https://docs.splunk.com/Documentation/Splunk/latest/Indexer/SmartStoreindexing",
+"7: Searching in SmartStore": "https://docs.splunk.com/Documentation/Splunk/latest/Indexer/SmartStoresearching",
+"8: Indexer cluster operations and SmartStore": "https://docs.splunk.com/Documentation/Splunk/latest/Indexer/IndexerclusteroperationsandSmartStore",
+"9: Troubleshoot SmartStore": "https://docs.splunk.com/Documentation/Splunk/latest/Indexer/TroubleshootSmartStore",
+"10: How to Manage Warm Buckets for Indexes on SmartStore? *ARTICLE*": "https://splunk.lightning.force.com/lightning/r/Knowledge__kav/ka05a0000005krjAAA/view",
+"11: Splunk SmartStore Is not Working *ARTICLE*": "https://splunk.lightning.force.com/lightning/r/Knowledge__kav/ka05a0000005kriAAA/view",
+"12: Indexer Crash after Configuring Smart Store *ARTICLE*": "https://splunk.lightning.force.com/lightning/r/Knowledge__kav/ka05a0000005kPEAAY/view",
+"13: Troubleshooting run book - SmartStore *CONFLUENCE*": "https://splunk.atlassian.net/wiki/spaces/PROD/pages/313983053353/Troubleshooting+run+book+-+SmartStore"
+}
