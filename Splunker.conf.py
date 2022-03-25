@@ -356,6 +356,14 @@ def main(): #Provee acceso al los documentos con los links de docuemtacion ofici
 
                     ans = input("Seleccione una opcion \n")
                 ansnum = int(ans)
+                if ans == "0" or ansnum > line_count:#condicional si el usuario ingresa un valor diferente al especificado en el index
+                        break
+                    
+                value_index =(links[int(ans)-1])
+                print(value_index)
+                webbrowser.open(KVSTORE[value_index])
+                break
+            
             elif anstop == "8":
                 with open("smartstore.txt","r")as SMRT:
                     smartstore = json.load(SMRT)
@@ -380,13 +388,7 @@ def main(): #Provee acceso al los documentos con los links de docuemtacion ofici
 
 
 
-                if ans == "0" or ansnum > line_count:#condicional si el usuario ingresa un valor diferente al especificado en el index
-                        break
-                    
-                value_index =(links[int(ans)-1])
-                print(value_index)
-                webbrowser.open(KVSTORE[value_index])
-                break
+              
 
 
             else:
